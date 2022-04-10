@@ -43,4 +43,4 @@ highlight_name: true
 ---
 James is a research scientist at Syncell Inc. His research interests include biosensing, nanotechnology and machine learning. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.

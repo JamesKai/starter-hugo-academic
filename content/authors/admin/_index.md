@@ -28,7 +28,7 @@ organizations:
     url: https://syncell.com/
 education:
   courses:
-    - course: Ph.D. Student in Chemical and Biomolecular Engineering
+    - course: Incoming Ph.D. Student in Chemical and Biomolecular Engineering
       institution: Georgia Institute of Technology
       year: ""
     - course: M.S.E in Chemical and Biomolecular Engineering

@@ -24,11 +24,11 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/hsiang-ju-james-kai-450b64a6/
 organizations:
-  - name: Syncell Inc.
-    url: https://syncell.com/
+  - name: Georgia Institute of Technology
+    url: https://www.chbe.gatech.edu/
 education:
   courses:
-    - course: Incoming Ph.D. Student in Chemical and Biomolecular Engineering
+    - course: Ph.D. Student in Chemical and Biomolecular Engineering
       institution: Georgia Institute of Technology
       year: ""
     - course: M.S.E in Chemical and Biomolecular Engineering
